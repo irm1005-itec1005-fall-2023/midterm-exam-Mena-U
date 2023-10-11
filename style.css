@@ -35,3 +35,29 @@ html {
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+ main img{
+  margin: 2rem 0;
+  padding: 1rem;
+  background-color: #f5f5f5;
+  border-radius: 0.5rem;
+ }
+ main h1 {
+  font-size:large;
+  margin: 1rem 0;
+  color: #7f5539;}
+
+main p {
+    margin: 1rem 0;
+    color: #7f5539;}
+  
+main header {
+  font-size:small;
+}
+
+main h2 {
+  color: brown;
+}
+
+main a {
+  color:black
+}
