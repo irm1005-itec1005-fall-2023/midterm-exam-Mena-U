@@ -35,13 +35,10 @@ body {
 /*
 6. Improve media defaults
 */
-img,
-picture,
-video,
-canvas,
-svg {
+img {
   display: block;
   max-width: 100%;
+  margin-bottom: 5cm;
 }
 /*
 7. Remove built-in form typography styles
